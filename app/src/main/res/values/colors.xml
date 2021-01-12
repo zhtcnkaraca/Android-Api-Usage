@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="logoBackground">#161c2e</color>
+    <color name="logoText">#faf7f2</color>
+    <color name="projectColor">#31383C</color>
+    <color name="cardView">#63686A</color>
+    <color name="textColor">#D4E6F1</color>
+    <color name="header">#3315B6</color>
+</resources>

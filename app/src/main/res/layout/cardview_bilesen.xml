@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/padding10">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/cardView">
+
+            <ImageView
+                android:id="@+id/imgBilesenLogo"
+                android:layout_width="@dimen/logoWidth"
+                android:layout_height="@dimen/logoHeight"
+                android:layout_marginStart="@dimen/number"
+                android:layout_marginTop="@dimen/number"
+                android:layout_marginBottom="@dimen/number"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/txtBilesenAdi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/number"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/textSize"
+                app:layout_constraintStart_toEndOf="@+id/imgBilesenLogo"
+                app:layout_constraintTop_toTopOf="@+id/imgBilesenLogo" />
+
+            <TextView
+                android:id="@+id/txtOrtalamaFiyat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/marginTop"
+                android:textColor="@color/textColor"
+                app:layout_constraintStart_toStartOf="@+id/txtBilesenAdi"
+                app:layout_constraintTop_toBottomOf="@+id/txtBilesenAdi" />
+
+            <TextView
+                android:id="@+id/txtUreticiler"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/marginTop"
+                android:textColor="@color/textColor"
+                app:layout_constraintStart_toStartOf="@+id/txtOrtalamaFiyat"
+                app:layout_constraintTop_toBottomOf="@+id/txtOrtalamaFiyat" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

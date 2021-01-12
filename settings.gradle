@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "H5190016_ZahitCanKaracaFinal"

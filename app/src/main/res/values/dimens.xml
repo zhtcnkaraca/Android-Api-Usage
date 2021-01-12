@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logoWidth">400px</dimen>
+    <dimen name="logoHeight">300px</dimen>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="bannerHeight">200dp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="bigTextSize">32sp</dimen>
+    <dimen name="number">16dp</dimen>
+    <dimen name="marginTop">8dp</dimen>
+    <dimen name="zero">0dp</dimen>
+</resources>

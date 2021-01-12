@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">H5190016_ZahitCanKaracaFinal</string>
+    <string name="app_attention">İnternet Bağlantınız Yok</string>
+    <string name="app_internetControlInfo">Uygulamayı kullanmak için internete bağlayın!</string>
+    <string name="app_exit">Kapat</string>
+    <string name="app_yes">Evet</string>
+    <string name="app_settings">İnterneti Aç</string>
+    <string name="app_fiyatAraligi">Fiyat Aralığı: </string>
+    <string name="app_ureticileri">Üreticileri: </string>
+    <string name="app_exitButtonMessage">Uygulamadan çıkmak istediğinize eminmisiniz.</string>
+    <string name="app_exitButton">Uyarı</string>
+    <string name="app_wait">Bekleyiniz...</string>
+    <string name="splashActivity">SplashActivity</string>
+    <string name="listeActivity">ListeActivity</string>
+</resources>

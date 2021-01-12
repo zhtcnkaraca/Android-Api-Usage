@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/projectColor"
+    tools:context=".activities.BilesenDetayActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imgKapak"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/bannerHeight"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/banner" />
+
+            <TextView
+                android:id="@+id/txtBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/padding10"
+                android:text="Başlık"
+                android:textColor="@color/header"
+                android:textSize="@dimen/bigTextSize"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtHakkinda"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding10"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/textSize" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding10"
+                    android:text="@string/app_ureticileri"
+                    android:textColor="@color/textColor"
+                    android:textSize="@dimen/textSize"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtUretici"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding10"
+                    android:textColor="@color/textColor"
+                    android:textSize="@dimen/textSize" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding10"
+                    android:text="@string/app_fiyatAraligi"
+                    android:textColor="@color/textColor"
+                    android:textSize="@dimen/textSize"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtFiyatAraligi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding10"
+                    android:textColor="@color/textColor"
+                    android:textSize="@dimen/textSize" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
