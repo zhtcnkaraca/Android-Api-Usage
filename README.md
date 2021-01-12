@@ -17,18 +17,15 @@ The main goal of this app is to be a sample of how to build an high quality Andr
 
 </p>
 
+## Clean Simple Architecture
+![Architecture](https://github.com/Zahit-Can-Karaca/h5190016zahitcankaraca/blob/main/other/yap%C4%B1.JPG)
+
 ## Libraries and tools 🛠
-<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
-<li><a href="https://developer.android.com/topic/libraries/data-binding">Data Binding</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB</a></li>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
-<li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></li>
-<li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
-<li><a href="https://github.com/google/dagger">Dagger 2</a></li>
-<li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
+<li><a href="https://github.com/square/retrofit">Retrofit</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
-<li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
+<li><a href="https://github.com/bumptech/glide">Glide</a></li>
 
 
 License
