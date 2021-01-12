@@ -3,9 +3,9 @@
 # Computer Component App
 ![appicon](https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
-GuestList is a simple Event and Guest Lister app, which uses Boomset APIs t
+Computer Component App is basic listing app which include computer component.
 
-The main goal of this app is to be a sample of how to build an high quality Android application that uses the Architecture components, Dagger etc. in Kotlin.
+The main aim of project is using API's in android project listing some kind of computer component.
 
 <h2 id="Outputs">Outputs</h2>
 <p>
