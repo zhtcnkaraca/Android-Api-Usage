@@ -13,11 +13,11 @@ The main aim of project is using API's in android project listing some kind of c
 
 <h2 id="Outputs">Outputs</h2>
 <p>
-  <img height= "350"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/SplashActivity.png" alt="SS1" />
-  <img height= "350"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/SplashActivityAlertDialog.png" alt="SS2" />
-  <img height= "350"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeActivity.png" alt="SS3" />
-  <img height= "350"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeaActivityAlertDialog.png" alt="SS4" />
-  <img height= "350"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/DetayActivity.png" alt="SS5" />
+  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/SplashActivity.png" alt="SS1" />
+  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/SplashActivityAlertDialog.png" alt="SS2" />
+  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeActivity.png" alt="SS3" />
+  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeaActivityAlertDialog.png" alt="SS4" />
+  <img height= "400"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/DetayActivity.png" alt="SS5" />
 
 </p>
 
