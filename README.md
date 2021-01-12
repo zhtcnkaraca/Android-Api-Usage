@@ -1,6 +1,21 @@
 # [Android-Api-Usage ( MVVM & Java )]
 
+# GuestList App
+![appicon](https://github.com/cagataymuhammet/GuestList/blob/master/images/guest_list_app.png)
 
+GuestList is a simple Event and Guest Lister app, which uses Boomset APIs t
+
+The main goal of this app is to be a sample of how to build an high quality Android application that uses the Architecture components, Dagger etc. in Kotlin.
+
+<h2 id="Outputs">Outputs</h2>
+<p>
+  <img height= "300"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/SplashActivity.png" alt="SS1" />
+  <img height= "300"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/SplashActivityAlertDialog.png" alt="SS2" />
+  <img height= "300"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeActivity.png" alt="SS3" />
+  <img height= "300"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/ListeaActivityAlertDialog.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/Screens/DetayActivity.png" alt="SS5" />
+
+</p>
 
 ## Libraries and tools 🛠
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
