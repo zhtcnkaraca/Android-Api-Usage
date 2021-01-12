@@ -1,5 +1,9 @@
 # [Android-Api-Usage ( MVVM & Java )]
 
+<p align="center">
+<img src="https://github.com/Zahit-Can-Karaca/h5190016zahitcankaraca/blob/main/other/banner.jpg"/>
+</p>
+
 # Computer Component App
 ![appicon](https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
