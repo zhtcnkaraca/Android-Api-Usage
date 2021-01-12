@@ -1,7 +1,7 @@
 # [Android-Api-Usage ( MVVM & Java )]
 
 # GuestList App
-![appicon](https://github.com/cagataymuhammet/GuestList/blob/master/images/guest_list_app.png)
+![appicon](https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 GuestList is a simple Event and Guest Lister app, which uses Boomset APIs t
 
