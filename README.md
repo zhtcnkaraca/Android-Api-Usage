@@ -1,7 +1,7 @@
 # [Android-Api-Usage ( MVVM & Java )]
 
 <p align="center">
-<img src="https://github.com/Zahit-Can-Karaca/h5190016zahitcankaraca/blob/main/other/banner.jpg"/>
+<img src="https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/images/banner.jpg"/>
 </p>
 
 # Computer Component App
@@ -22,7 +22,7 @@ The main aim of project is using API's in android project listing some kind of c
 </p>
 
 ## Clean Simple Architecture
-![Architecture](https://github.com/Zahit-Can-Karaca/h5190016zahitcankaraca/blob/main/other/yap%C4%B1.JPG)
+![Architecture](https://github.com/Zahit-Can-Karaca/Android-Api-Usage/blob/main/images/yap%C4%B1.JPG)
 
 ## Libraries and tools 🛠
 <li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
