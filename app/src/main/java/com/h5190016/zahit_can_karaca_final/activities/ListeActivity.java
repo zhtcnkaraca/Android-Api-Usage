@@ -87,7 +87,7 @@ public class ListeActivity extends AppCompatActivity {
             @Override
             public void onClik(int position) {
                 BilesenModel tiklananBilesen =bilesenList.get(position);
-                opennextActivity(tiklananBilesen);
+                openNextActivity(tiklananBilesen);
             }
         });
 
@@ -95,7 +95,7 @@ public class ListeActivity extends AppCompatActivity {
         recyclerView.setAdapter(bilesenAdaptor);
     }
 
-    private void opennextActivity(BilesenModel tiklananBilesen){
+    private void openNextActivity(BilesenModel tiklananBilesen){
         Intent secondActivityIntent=new Intent(getApplicationContext(),BilesenDetayActivity.class);
         String tiklananBilesenString= ObjectUtil.bilesenToJsonString(tiklananBilesen);
         secondActivityIntent.putExtra(Constants.TIKANAN_BILESEN_TASINANIN_BASLIGI,tiklananBilesenString);
